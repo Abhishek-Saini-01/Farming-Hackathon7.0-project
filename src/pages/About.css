@@ -1,0 +1,12 @@
+
+
+.About_us_title{
+    font-size: 60px;
+    color: green;
+}
+.About_text {
+    font-size: 30px;
+    letter-spacing: 5px;
+    font-family: 'Montserrat', sans-serif !important;
+    font-style: italic;
+}
